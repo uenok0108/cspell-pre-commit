@@ -1,0 +1,1 @@
+# cspell-pre-commit
